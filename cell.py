@@ -91,7 +91,7 @@ class CellDataset(utils.Dataset):
         self.add_class("cell", 2, "NEUROPHIL")
         self.add_class("cell", 3, "MONOCYTE")
         self.add_class("cell", 4, "LYMPHOCITE")
-	self.add_class("cell", 5, "RBC")
+        self.add_class("cell", 5, "RBC")
 
         # Train or validation dataset?
         assert subset in ["train", "val"]

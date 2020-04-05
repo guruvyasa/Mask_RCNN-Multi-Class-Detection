@@ -1,0 +1,3820 @@
+{    "_62_1783.jpeg7663": {
+    "filename": "_62_1783.jpeg",
+    "size": 7663,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    80,
+                    51,
+                    51,
+                    65,
+                    82,
+                    92,
+                    139,
+                    123,
+                    107
+                ],
+                "all_points_y": [
+                    177,
+                    186,
+                    202,
+                    212,
+                    212,
+                    218,
+                    222,
+                    188,
+                    174
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "RBC"
+            }
+        },
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    223,
+                    206,
+                    199,
+                    197,
+                    225,
+                    257,
+                    269,
+                    268,
+                    255
+                ],
+                "all_points_y": [
+                    104,
+                    115,
+                    123,
+                    147,
+                    155,
+                    151,
+                    132,
+                    118,
+                    102
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "RBC"
+            }
+        },
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    74,
+                    63,
+                    57,
+                    68,
+                    84,
+                    104,
+                    109,
+                    115,
+                    115,
+                    93
+                ],
+                "all_points_y": [
+                    82,
+                    93,
+                    108,
+                    124,
+                    136,
+                    128,
+                    118,
+                    107,
+                    94,
+                    84
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "EOSINOPHIL"
+            }
+        }
+    ],
+    "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+    }
+},
+"_61_7592.jpeg9238": {
+    "filename": "_61_7592.jpeg",
+    "size": 9238,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    153,
+                    142,
+                    146,
+                    169,
+                    189,
+                    173
+                ],
+                "all_points_y": [
+                    13,
+                    25,
+                    52,
+                    63,
+                    46,
+                    21
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "RBC"
+            }
+        },
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    86,
+                    70,
+                    66,
+                    82,
+                    98,
+                    112,
+                    105
+                ],
+                "all_points_y": [
+                    126,
+                    133,
+                    156,
+                    172,
+                    172,
+                    157,
+                    135
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "RBC"
+            }
+        },
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    164,
+                    125,
+                    110,
+                    99,
+                    116,
+                    136,
+                    174,
+                    210,
+                    216,
+                    222,
+                    202
+                ],
+                "all_points_y": [
+                    88,
+                    93,
+                    100,
+                    124,
+                    158,
+                    174,
+                    182,
+                    162,
+                    145,
+                    123,
+                    96
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "EOSINOPHIL"
+            }
+        },
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    219,
+                    229,
+                    248,
+                    262,
+                    270
+                ],
+                "all_points_y": [
+                    4,
+                    17,
+                    33,
+                    25,
+                    9
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "EOSINOPHIL"
+            }
+        }
+    ],
+    "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+    }
+},
+"_58_7427.jpeg8774": {
+    "filename": "_58_7427.jpeg",
+    "size": 8774,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    91,
+                    74,
+                    69,
+                    86,
+                    132,
+                    164,
+                    183,
+                    174,
+                    145,
+                    121
+                ],
+                "all_points_y": [
+                    15,
+                    40,
+                    70,
+                    99,
+                    124,
+                    117,
+                    89,
+                    47,
+                    25,
+                    15
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "EOSINOPHIL"
+            }
+        },
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    192,
+                    179,
+                    178,
+                    188,
+                    203,
+                    219,
+                    225,
+                    215
+                ],
+                "all_points_y": [
+                    130,
+                    138,
+                    152,
+                    166,
+                    174,
+                    171,
+                    156,
+                    140
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "RBC"
+            }
+        },
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    146,
+                    109,
+                    108,
+                    150,
+                    167,
+                    182,
+                    172
+                ],
+                "all_points_y": [
+                    176,
+                    187,
+                    209,
+                    230,
+                    210,
+                    194,
+                    173
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "RBC"
+            }
+        }
+    ],
+    "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+    }
+},
+"_58_4374.jpeg8808": {
+    "filename": "_58_4374.jpeg",
+    "size": 8808,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    149,
+                    124,
+                    117,
+                    116,
+                    143,
+                    168,
+                    194,
+                    197,
+                    176
+                ],
+                "all_points_y": [
+                    20,
+                    29,
+                    44,
+                    76,
+                    102,
+                    101,
+                    83,
+                    61,
+                    26
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "EOSINOPHIL"
+            }
+        },
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    108,
+                    99,
+                    99,
+                    113,
+                    140,
+                    150,
+                    133
+                ],
+                "all_points_y": [
+                    109,
+                    124,
+                    139,
+                    152,
+                    155,
+                    140,
+                    113
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "RBC"
+            }
+        },
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    15,
+                    9,
+                    12,
+                    24,
+                    40,
+                    30
+                ],
+                "all_points_y": [
+                    73,
+                    81,
+                    96,
+                    100,
+                    89,
+                    76
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "EOSINOPHIL"
+            }
+        }
+    ],
+    "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+    }
+},
+"_56_4160.jpeg7515": {
+    "filename": "_56_4160.jpeg",
+    "size": 7515,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    155,
+                    116,
+                    102,
+                    102,
+                    122,
+                    167,
+                    197,
+                    213,
+                    219,
+                    201,
+                    179
+                ],
+                "all_points_y": [
+                    19,
+                    43,
+                    76,
+                    98,
+                    123,
+                    125,
+                    118,
+                    83,
+                    59,
+                    31,
+                    20
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "EOSINOPHIL"
+            }
+        },
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    30,
+                    13,
+                    5,
+                    2,
+                    29,
+                    48,
+                    56,
+                    60,
+                    50
+                ],
+                "all_points_y": [
+                    91,
+                    108,
+                    116,
+                    150,
+                    164,
+                    148,
+                    124,
+                    111,
+                    95
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "RBC"
+            }
+        },
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    68,
+                    52,
+                    52,
+                    66,
+                    80,
+                    99,
+                    109,
+                    92,
+                    87
+                ],
+                "all_points_y": [
+                    159,
+                    170,
+                    187,
+                    209,
+                    210,
+                    199,
+                    180,
+                    164,
+                    159
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "RBC"
+            }
+        }
+    ],
+    "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+    }
+},
+"_55_4246.jpeg8278": {
+    "filename": "_55_4246.jpeg",
+    "size": 8278,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    260,
+                    224,
+                    197,
+                    216,
+                    251,
+                    292,
+                    319,
+                    315,
+                    293
+                ],
+                "all_points_y": [
+                    72,
+                    90,
+                    124,
+                    169,
+                    187,
+                    180,
+                    133,
+                    95,
+                    78
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "EOSINOPHIL"
+            }
+        },
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    63,
+                    53,
+                    59,
+                    92,
+                    104,
+                    100
+                ],
+                "all_points_y": [
+                    87,
+                    93,
+                    124,
+                    135,
+                    107,
+                    86
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "RBC"
+            }
+        },
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    222,
+                    205,
+                    198,
+                    201,
+                    227,
+                    253,
+                    262,
+                    242
+                ],
+                "all_points_y": [
+                    40,
+                    46,
+                    61,
+                    74,
+                    83,
+                    69,
+                    48,
+                    36
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "RBC"
+            }
+        }
+    ],
+    "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+    }
+},
+"_44_4701.jpeg8760": {
+    "filename": "_44_4701.jpeg",
+    "size": 8760,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    195,
+                    177,
+                    177,
+                    189,
+                    238,
+                    267,
+                    267,
+                    241,
+                    219
+                ],
+                "all_points_y": [
+                    143,
+                    162,
+                    181,
+                    213,
+                    214,
+                    196,
+                    172,
+                    152,
+                    137
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "EOSINOPHIL"
+            }
+        },
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    158,
+                    145,
+                    135,
+                    135,
+                    147,
+                    157,
+                    176,
+                    185,
+                    182
+                ],
+                "all_points_y": [
+                    33,
+                    35,
+                    46,
+                    61,
+                    72,
+                    83,
+                    97,
+                    69,
+                    45
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "RBC"
+            }
+        },
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    112,
+                    101,
+                    100,
+                    106,
+                    124,
+                    138,
+                    146,
+                    134
+                ],
+                "all_points_y": [
+                    142,
+                    153,
+                    165,
+                    183,
+                    192,
+                    189,
+                    170,
+                    148
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "RBC"
+            }
+        }
+    ],
+    "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+    }
+},
+"_40_4675.jpeg9038": {
+    "filename": "_40_4675.jpeg",
+    "size": 9038,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    131,
+                    70,
+                    32,
+                    32,
+                    70,
+                    109,
+                    141,
+                    178,
+                    159
+                ],
+                "all_points_y": [
+                    65,
+                    78,
+                    112,
+                    152,
+                    181,
+                    186,
+                    160,
+                    124,
+                    81
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "EOSINOPHIL"
+            }
+        },
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    189,
+                    188,
+                    188,
+                    202,
+                    231,
+                    233,
+                    211
+                ],
+                "all_points_y": [
+                    126,
+                    140,
+                    156,
+                    165,
+                    158,
+                    131,
+                    116
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "RBC"
+            }
+        }
+    ],
+    "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+    }
+},
+
+
+"_5_8755.jpeg8181": {
+    "filename": "_5_8755.jpeg",
+    "size": 8181,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    171,
+                    132,
+                    114,
+                    91,
+                    99,
+                    129,
+                    154,
+                    176,
+                    199,
+                    224,
+                    224,
+                    225,
+                    210,
+                    183
+                ],
+                "all_points_y": [
+                    42,
+                    63,
+                    93,
+                    130,
+                    142,
+                    151,
+                    166,
+                    164,
+                    126,
+                    113,
+                    78,
+                    56,
+                    21,
+                    17
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "MONOCYTE"
+            }
+        },
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    90,
+                    72,
+                    66,
+                    67,
+                    89,
+                    110,
+                    114,
+                    100
+                ],
+                "all_points_y": [
+                    21,
+                    27,
+                    38,
+                    56,
+                    69,
+                    56,
+                    31,
+                    19
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "RBC"
+            }
+        }
+    ],
+    "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+    }
+},
+"_5_4172.jpeg9403": {
+    "filename": "_5_4172.jpeg",
+    "size": 9403,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    63,
+                    60,
+                    56,
+                    65,
+                    74,
+                    99,
+                    144,
+                    177,
+                    182,
+                    162,
+                    107
+                ],
+                "all_points_y": [
+                    2,
+                    18,
+                    39,
+                    57,
+                    79,
+                    102,
+                    95,
+                    71,
+                    57,
+                    16,
+                    0
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "MONOCYTE"
+            }
+        },
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    149,
+                    149,
+                    147,
+                    147,
+                    157,
+                    175,
+                    188,
+                    190,
+                    175
+                ],
+                "all_points_y": [
+                    188,
+                    184,
+                    202,
+                    215,
+                    232,
+                    234,
+                    223,
+                    205,
+                    192
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "RBC"
+            }
+        }
+    ],
+    "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+    }
+},
+"_5_893.jpeg8429": {
+    "filename": "_5_893.jpeg",
+    "size": 8429,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    86,
+                    68,
+                    67,
+                    80,
+                    106,
+                    134,
+                    149,
+                    141,
+                    126
+                ],
+                "all_points_y": [
+                    21,
+                    39,
+                    66,
+                    88,
+                    90,
+                    81,
+                    50,
+                    27,
+                    16
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "MONOCYTE"
+            }
+        },
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    207,
+                    195,
+                    187,
+                    186,
+                    206,
+                    220,
+                    229,
+                    219
+                ],
+                "all_points_y": [
+                    91,
+                    108,
+                    127,
+                    139,
+                    147,
+                    125,
+                    101,
+                    89
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "RBC"
+            }
+        },
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    93,
+                    83,
+                    74,
+                    72,
+                    92,
+                    109,
+                    123,
+                    107
+                ],
+                "all_points_y": [
+                    111,
+                    118,
+                    138,
+                    161,
+                    174,
+                    158,
+                    126,
+                    107
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "RBC"
+            }
+        }
+    ],
+    "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+    }
+},
+"_3_3900.jpeg8470": {
+    "filename": "_3_3900.jpeg",
+    "size": 8470,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    188,
+                    162,
+                    151,
+                    144,
+                    156,
+                    180,
+                    198,
+                    205,
+                    218,
+                    231,
+                    258,
+                    275,
+                    276,
+                    254
+                ],
+                "all_points_y": [
+                    6,
+                    15,
+                    23,
+                    55,
+                    69,
+                    106,
+                    107,
+                    123,
+                    127,
+                    109,
+                    101,
+                    78,
+                    46,
+                    26
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "MONOCYTE"
+            }
+        },
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    140,
+                    143,
+                    123,
+                    115,
+                    129,
+                    168,
+                    176,
+                    163
+                ],
+                "all_points_y": [
+                    189,
+                    189,
+                    193,
+                    206,
+                    219,
+                    219,
+                    206,
+                    192
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "RBC"
+            }
+        }
+    ],
+    "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+    }
+},
+"_2_9640.jpeg7408": {
+    "filename": "_2_9640.jpeg",
+    "size": 7408,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    214,
+                    186,
+                    173,
+                    160,
+                    142,
+                    175,
+                    207,
+                    244,
+                    262,
+                    279,
+                    289,
+                    280
+                ],
+                "all_points_y": [
+                    48,
+                    51,
+                    74,
+                    89,
+                    93,
+                    144,
+                    165,
+                    168,
+                    179,
+                    160,
+                    126,
+                    77
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "MONOCYTE"
+            }
+        }
+    ],
+    "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+    }
+},
+"_2_3554.jpeg8263": {
+    "filename": "_2_3554.jpeg",
+    "size": 8263,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    136,
+                    110,
+                    104,
+                    108,
+                    137,
+                    159,
+                    170,
+                    174,
+                    156
+                ],
+                "all_points_y": [
+                    79,
+                    89,
+                    110,
+                    141,
+                    154,
+                    151,
+                    133,
+                    92,
+                    79
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "MONOCYTE"
+            }
+        }
+    ],
+    "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+    }
+},
+"_0_1511.jpeg7877": {
+    "filename": "_0_1511.jpeg",
+    "size": 7877,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    212,
+                    181,
+                    170,
+                    179,
+                    190,
+                    236,
+                    266,
+                    287,
+                    287,
+                    260
+                ],
+                "all_points_y": [
+                    33,
+                    47,
+                    70,
+                    100,
+                    127,
+                    132,
+                    128,
+                    94,
+                    66,
+                    39
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "MONOCYTE"
+            }
+        }
+    ],
+    "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+    }
+},
+"_0_185.jpeg7905": {
+    "filename": "_0_185.jpeg",
+    "size": 7905,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    71,
+                    36,
+                    35,
+                    55,
+                    105,
+                    119,
+                    103
+                ],
+                "all_points_y": [
+                    29,
+                    42,
+                    74,
+                    96,
+                    93,
+                    74,
+                    39
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "MONOCYTE"
+            }
+        },
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    225,
+                    212,
+                    212,
+                    236,
+                    235
+                ],
+                "all_points_y": [
+                    181,
+                    177,
+                    197,
+                    204,
+                    191
+                ]
+            },
+            "region_attributes": {
+                "name": "not_defined",
+                "type": "unknown",
+                "image_quality": {
+                    "good": true,
+                    "frontal": true,
+                    "good_illumination": true
+                },
+                "cell": "MONOCYTE"
+            }
+        }
+    ],
+    "file_attributes": {
+        "caption": "",
+        "public_domain": "no",
+        "image_url": ""
+    }
+},
+
+    "_80_1591.jpeg7703": {
+        "filename": "_80_1591.jpeg",
+        "size": 7703,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        128,
+                        149,
+                        168,
+                        169,
+                        155,
+                        133,
+                        126,
+                        119
+                    ],
+                    "all_points_y": [
+                        43,
+                        41,
+                        54,
+                        72,
+                        89,
+                        88,
+                        75,
+                        56
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "NEUROPHIL"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        81,
+                        83,
+                        93,
+                        98,
+                        120,
+                        108,
+                        98
+                    ],
+                    "all_points_y": [
+                        67,
+                        97,
+                        107,
+                        113,
+                        100,
+                        80,
+                        70
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        127,
+                        114,
+                        114,
+                        128,
+                        160,
+                        180,
+                        164,
+                        154
+                    ],
+                    "all_points_y": [
+                        165,
+                        170,
+                        182,
+                        197,
+                        204,
+                        197,
+                        176,
+                        166
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        137,
+                        135,
+                        144,
+                        159,
+                        177,
+                        192,
+                        185,
+                        163
+                    ],
+                    "all_points_y": [
+                        104,
+                        120,
+                        137,
+                        158,
+                        165,
+                        134,
+                        122,
+                        115
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        230,
+                        224,
+                        221,
+                        224,
+                        241,
+                        263,
+                        263,
+                        249
+                    ],
+                    "all_points_y": [
+                        129,
+                        140,
+                        151,
+                        163,
+                        173,
+                        164,
+                        142,
+                        132
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        46,
+                        35,
+                        40,
+                        41,
+                        62,
+                        83,
+                        90,
+                        85,
+                        71
+                    ],
+                    "all_points_y": [
+                        141,
+                        170,
+                        184,
+                        199,
+                        217,
+                        211,
+                        199,
+                        173,
+                        153
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "_77_2318.jpeg8503": {
+        "filename": "_77_2318.jpeg",
+        "size": 8503,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        206,
+                        185,
+                        182,
+                        189,
+                        209,
+                        228,
+                        258,
+                        268,
+                        267,
+                        253,
+                        232
+                    ],
+                    "all_points_y": [
+                        105,
+                        117,
+                        138,
+                        166,
+                        182,
+                        186,
+                        179,
+                        154,
+                        143,
+                        113,
+                        103
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "NEUROPHIL"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        155,
+                        143,
+                        156,
+                        181,
+                        196,
+                        185,
+                        174
+                    ],
+                    "all_points_y": [
+                        51,
+                        63,
+                        94,
+                        96,
+                        74,
+                        51,
+                        47
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        108,
+                        94,
+                        94,
+                        97,
+                        114,
+                        128,
+                        137,
+                        139,
+                        125
+                    ],
+                    "all_points_y": [
+                        63,
+                        75,
+                        86,
+                        96,
+                        103,
+                        105,
+                        93,
+                        79,
+                        64
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        132,
+                        122,
+                        123,
+                        129,
+                        144,
+                        164,
+                        164,
+                        150
+                    ],
+                    "all_points_y": [
+                        114,
+                        122,
+                        134,
+                        148,
+                        154,
+                        147,
+                        129,
+                        117
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        98,
+                        93,
+                        93,
+                        100,
+                        112,
+                        127,
+                        138,
+                        134,
+                        121,
+                        113
+                    ],
+                    "all_points_y": [
+                        191,
+                        203,
+                        214,
+                        223,
+                        230,
+                        224,
+                        212,
+                        200,
+                        192,
+                        188
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        56,
+                        50,
+                        43,
+                        41,
+                        42,
+                        77,
+                        93,
+                        87,
+                        72
+                    ],
+                    "all_points_y": [
+                        35,
+                        45,
+                        58,
+                        65,
+                        79,
+                        83,
+                        71,
+                        47,
+                        35
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        219,
+                        210,
+                        210,
+                        229,
+                        250,
+                        248,
+                        237
+                    ],
+                    "all_points_y": [
+                        52,
+                        65,
+                        77,
+                        100,
+                        86,
+                        70,
+                        58
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "_61_4740.jpeg8884": {
+        "filename": "_61_4740.jpeg",
+        "size": 8884,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        28,
+                        25,
+                        26,
+                        51,
+                        81,
+                        106,
+                        121,
+                        121,
+                        110,
+                        96
+                    ],
+                    "all_points_y": [
+                        1,
+                        12,
+                        42,
+                        63,
+                        78,
+                        70,
+                        50,
+                        22,
+                        4,
+                        -1
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "NEUROPHIL"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        190,
+                        178,
+                        178,
+                        184,
+                        208,
+                        224,
+                        208
+                    ],
+                    "all_points_y": [
+                        19,
+                        27,
+                        41,
+                        52,
+                        61,
+                        39,
+                        16
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        148,
+                        138,
+                        136,
+                        136,
+                        144,
+                        157,
+                        169,
+                        178,
+                        179,
+                        168
+                    ],
+                    "all_points_y": [
+                        87,
+                        95,
+                        110,
+                        124,
+                        130,
+                        134,
+                        133,
+                        122,
+                        100,
+                        90
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        208,
+                        191,
+                        180,
+                        180,
+                        190,
+                        213,
+                        233,
+                        227
+                    ],
+                    "all_points_y": [
+                        143,
+                        152,
+                        168,
+                        179,
+                        197,
+                        193,
+                        175,
+                        154
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        118,
+                        104,
+                        100,
+                        108,
+                        126,
+                        139,
+                        131
+                    ],
+                    "all_points_y": [
+                        131,
+                        149,
+                        170,
+                        183,
+                        174,
+                        150,
+                        129
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        315,
+                        299,
+                        294,
+                        301,
+                        318
+                    ],
+                    "all_points_y": [
+                        71,
+                        73,
+                        95,
+                        108,
+                        113
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        265,
+                        247,
+                        243,
+                        243,
+                        260,
+                        292,
+                        292,
+                        281
+                    ],
+                    "all_points_y": [
+                        102,
+                        109,
+                        123,
+                        138,
+                        155,
+                        146,
+                        117,
+                        107
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "_58_6669.jpeg7797": {
+        "filename": "_58_6669.jpeg",
+        "size": 7797,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        235,
+                        218,
+                        218,
+                        231,
+                        252,
+                        272,
+                        267,
+                        257
+                    ],
+                    "all_points_y": [
+                        32,
+                        39,
+                        63,
+                        84,
+                        99,
+                        77,
+                        51,
+                        37
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "NEUROPHIL"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        94,
+                        88,
+                        87,
+                        96,
+                        91,
+                        112,
+                        130,
+                        140,
+                        127,
+                        124,
+                        110
+                    ],
+                    "all_points_y": [
+                        33,
+                        38,
+                        51,
+                        69,
+                        94,
+                        114,
+                        103,
+                        80,
+                        60,
+                        48,
+                        38
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        145,
+                        136,
+                        134,
+                        134,
+                        144,
+                        162,
+                        179,
+                        179,
+                        164
+                    ],
+                    "all_points_y": [
+                        146,
+                        155,
+                        175,
+                        192,
+                        204,
+                        206,
+                        195,
+                        169,
+                        153
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        38,
+                        20,
+                        17,
+                        19,
+                        28,
+                        38,
+                        53,
+                        61,
+                        65,
+                        60,
+                        60,
+                        51
+                    ],
+                    "all_points_y": [
+                        93,
+                        102,
+                        118,
+                        138,
+                        154,
+                        169,
+                        165,
+                        156,
+                        135,
+                        121,
+                        105,
+                        99
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "_21_1148.jpeg8117": {
+        "filename": "_21_1148.jpeg",
+        "size": 8117,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        209,
+                        185,
+                        177,
+                        168,
+                        163,
+                        188,
+                        217,
+                        251,
+                        263,
+                        268,
+                        269,
+                        242
+                    ],
+                    "all_points_y": [
+                        51,
+                        67,
+                        83,
+                        98,
+                        126,
+                        153,
+                        160,
+                        142,
+                        134,
+                        119,
+                        100,
+                        58
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "NEUROPHIL"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        106,
+                        103,
+                        110,
+                        125,
+                        142,
+                        151,
+                        155,
+                        147,
+                        131,
+                        119
+                    ],
+                    "all_points_y": [
+                        72,
+                        85,
+                        107,
+                        118,
+                        120,
+                        115,
+                        102,
+                        86,
+                        73,
+                        71
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        47,
+                        42,
+                        51,
+                        64,
+                        79,
+                        84,
+                        88,
+                        80,
+                        67
+                    ],
+                    "all_points_y": [
+                        165,
+                        182,
+                        200,
+                        208,
+                        209,
+                        198,
+                        180,
+                        171,
+                        160
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        69,
+                        55,
+                        48,
+                        46,
+                        46,
+                        61,
+                        80,
+                        88,
+                        87
+                    ],
+                    "all_points_y": [
+                        36,
+                        39,
+                        46,
+                        59,
+                        69,
+                        91,
+                        89,
+                        76,
+                        51
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        179,
+                        169,
+                        155,
+                        148,
+                        170,
+                        192,
+                        209,
+                        210
+                    ],
+                    "all_points_y": [
+                        158,
+                        154,
+                        154,
+                        170,
+                        191,
+                        202,
+                        189,
+                        176
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "_19_5625.jpeg9001": {
+        "filename": "_19_5625.jpeg",
+        "size": 9001,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        159,
+                        137,
+                        136,
+                        136,
+                        159,
+                        196,
+                        217,
+                        217,
+                        208,
+                        189
+                    ],
+                    "all_points_y": [
+                        95,
+                        107,
+                        127,
+                        152,
+                        175,
+                        184,
+                        159,
+                        125,
+                        113,
+                        103
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "NEUROPHIL"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        148,
+                        128,
+                        128,
+                        143,
+                        167,
+                        177,
+                        177,
+                        168
+                    ],
+                    "all_points_y": [
+                        21,
+                        31,
+                        44,
+                        65,
+                        64,
+                        53,
+                        38,
+                        24
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        62,
+                        55,
+                        55,
+                        56,
+                        68,
+                        81,
+                        104,
+                        110,
+                        104,
+                        87,
+                        70
+                    ],
+                    "all_points_y": [
+                        168,
+                        168,
+                        186,
+                        199,
+                        218,
+                        224,
+                        219,
+                        199,
+                        182,
+                        171,
+                        166
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "_1_7003.jpeg9195": {
+        "filename": "_1_7003.jpeg",
+        "size": 9195,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        91,
+                        57,
+                        55,
+                        61,
+                        96,
+                        136,
+                        156,
+                        155,
+                        130
+                    ],
+                    "all_points_y": [
+                        88,
+                        120,
+                        157,
+                        182,
+                        199,
+                        175,
+                        152,
+                        115,
+                        98
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "NEUROPHIL"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        244,
+                        226,
+                        226,
+                        244,
+                        253,
+                        253
+                    ],
+                    "all_points_y": [
+                        50,
+                        65,
+                        76,
+                        76,
+                        65,
+                        59
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "NEUROPHIL"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        38,
+                        24,
+                        22,
+                        35,
+                        50,
+                        70,
+                        67,
+                        53
+                    ],
+                    "all_points_y": [
+                        73,
+                        91,
+                        110,
+                        125,
+                        121,
+                        93,
+                        82,
+                        75
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        176,
+                        172,
+                        179,
+                        194,
+                        212,
+                        224,
+                        218,
+                        203,
+                        191
+                    ],
+                    "all_points_y": [
+                        66,
+                        77,
+                        94,
+                        104,
+                        105,
+                        88,
+                        74,
+                        61,
+                        61
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "_0_1986.jpeg9322": {
+        "filename": "_0_1986.jpeg",
+        "size": 9322,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        218,
+                        198,
+                        179,
+                        186,
+                        221,
+                        266,
+                        273,
+                        272,
+                        253
+                    ],
+                    "all_points_y": [
+                        88,
+                        101,
+                        120,
+                        168,
+                        183,
+                        156,
+                        125,
+                        105,
+                        93
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "NEUROPHIL"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        183,
+                        173,
+                        165,
+                        165,
+                        173,
+                        192,
+                        208,
+                        208,
+                        201
+                    ],
+                    "all_points_y": [
+                        31,
+                        43,
+                        59,
+                        71,
+                        84,
+                        87,
+                        66,
+                        46,
+                        35
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+
+
+    "_26_8893.jpeg7841": {
+        "filename": "_26_8893.jpeg",
+        "size": 7841,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        167,
+                        149,
+                        153,
+                        160,
+                        184,
+                        201,
+                        199,
+                        183
+                    ],
+                    "all_points_y": [
+                        104,
+                        118,
+                        133,
+                        149,
+                        160,
+                        149,
+                        122,
+                        109
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "LYMPHOCITE"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        61,
+                        48,
+                        48,
+                        62,
+                        79,
+                        77
+                    ],
+                    "all_points_y": [
+                        11,
+                        24,
+                        46,
+                        43,
+                        27,
+                        11
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "LYMPHOCITE"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        106,
+                        83,
+                        82,
+                        82,
+                        96,
+                        106,
+                        125,
+                        131,
+                        126
+                    ],
+                    "all_points_y": [
+                        106,
+                        115,
+                        124,
+                        134,
+                        147,
+                        149,
+                        142,
+                        125,
+                        110
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        179,
+                        159,
+                        148,
+                        148,
+                        172,
+                        188,
+                        203,
+                        194
+                    ],
+                    "all_points_y": [
+                        170,
+                        171,
+                        183,
+                        198,
+                        216,
+                        214,
+                        195,
+                        180
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        169,
+                        152,
+                        152,
+                        149,
+                        157,
+                        196,
+                        217,
+                        193
+                    ],
+                    "all_points_y": [
+                        30,
+                        35,
+                        51,
+                        78,
+                        83,
+                        83,
+                        63,
+                        33
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "_25_8219.jpeg8069": {
+        "filename": "_25_8219.jpeg",
+        "size": 8069,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        171,
+                        165,
+                        157,
+                        166,
+                        183,
+                        202,
+                        204,
+                        202,
+                        190
+                    ],
+                    "all_points_y": [
+                        62,
+                        71,
+                        93,
+                        105,
+                        112,
+                        101,
+                        83,
+                        72,
+                        64
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "LYMPHOCITE"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        56,
+                        43,
+                        40,
+                        40,
+                        60,
+                        79,
+                        88,
+                        85,
+                        75
+                    ],
+                    "all_points_y": [
+                        81,
+                        97,
+                        119,
+                        132,
+                        131,
+                        116,
+                        104,
+                        89,
+                        76
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "_25_2842.jpeg8447": {
+        "filename": "_25_2842.jpeg",
+        "size": 8447,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        131,
+                        115,
+                        115,
+                        124,
+                        134,
+                        144,
+                        158,
+                        181,
+                        183,
+                        175,
+                        162,
+                        143
+                    ],
+                    "all_points_y": [
+                        113,
+                        124,
+                        139,
+                        150,
+                        157,
+                        163,
+                        165,
+                        157,
+                        150,
+                        135,
+                        114,
+                        112
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "LYMPHOCITE"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        264,
+                        251,
+                        248,
+                        259,
+                        274,
+                        295,
+                        300,
+                        287
+                    ],
+                    "all_points_y": [
+                        50,
+                        59,
+                        72,
+                        89,
+                        97,
+                        94,
+                        74,
+                        55
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "_18_6575.jpeg8372": {
+        "filename": "_18_6575.jpeg",
+        "size": 8372,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        241,
+                        226,
+                        230,
+                        245,
+                        264,
+                        277,
+                        279,
+                        280,
+                        252
+                    ],
+                    "all_points_y": [
+                        19,
+                        48,
+                        62,
+                        73,
+                        74,
+                        66,
+                        47,
+                        27,
+                        21
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "LYMPHOCITE"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        170,
+                        161,
+                        152,
+                        153,
+                        174,
+                        206,
+                        190
+                    ],
+                    "all_points_y": [
+                        131,
+                        141,
+                        154,
+                        170,
+                        185,
+                        143,
+                        124
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "_18_884.jpeg8018": {
+        "filename": "_18_884.jpeg",
+        "size": 8018,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        120,
+                        104,
+                        104,
+                        130,
+                        150,
+                        174,
+                        159,
+                        137
+                    ],
+                    "all_points_y": [
+                        59,
+                        83,
+                        107,
+                        127,
+                        123,
+                        100,
+                        65,
+                        58
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "LYMPHOCITE"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        62,
+                        52,
+                        58,
+                        77,
+                        95,
+                        96
+                    ],
+                    "all_points_y": [
+                        74,
+                        96,
+                        119,
+                        130,
+                        117,
+                        79
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "_9_1259.jpeg8810": {
+        "filename": "_9_1259.jpeg",
+        "size": 8810,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        110,
+                        93,
+                        100,
+                        121,
+                        156,
+                        168,
+                        159,
+                        142
+                    ],
+                    "all_points_y": [
+                        155,
+                        179,
+                        209,
+                        229,
+                        215,
+                        194,
+                        163,
+                        155
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "LYMPHOCITE"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        80,
+                        65,
+                        68,
+                        67,
+                        86,
+                        112,
+                        108,
+                        98
+                    ],
+                    "all_points_y": [
+                        94,
+                        129,
+                        149,
+                        168,
+                        170,
+                        128,
+                        102,
+                        97
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "_0_3855.jpeg8723": {
+        "filename": "_0_3855.jpeg",
+        "size": 8723,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        137,
+                        114,
+                        109,
+                        129,
+                        147,
+                        180,
+                        192,
+                        169
+                    ],
+                    "all_points_y": [
+                        132,
+                        158,
+                        174,
+                        202,
+                        208,
+                        194,
+                        161,
+                        142
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "LYMPHOCITE"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        96,
+                        85,
+                        87,
+                        98,
+                        127,
+                        135,
+                        124
+                    ],
+                    "all_points_y": [
+                        68,
+                        84,
+                        104,
+                        115,
+                        109,
+                        91,
+                        69
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    },
+    "_0_2202.jpeg8302": {
+        "filename": "_0_2202.jpeg",
+        "size": 8302,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        152,
+                        143,
+                        138,
+                        135,
+                        163,
+                        178,
+                        189,
+                        165
+                    ],
+                    "all_points_y": [
+                        69,
+                        83,
+                        99,
+                        114,
+                        126,
+                        119,
+                        84,
+                        62
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "LYMPHOCITE"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        102,
+                        91,
+                        91,
+                        111,
+                        112
+                    ],
+                    "all_points_y": [
+                        66,
+                        81,
+                        97,
+                        90,
+                        79
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "LYMPHOCITE"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        47,
+                        39,
+                        38,
+                        56,
+                        90,
+                        90,
+                        73
+                    ],
+                    "all_points_y": [
+                        141,
+                        154,
+                        175,
+                        191,
+                        173,
+                        153,
+                        141
+                    ]
+                },
+                "region_attributes": {
+                    "name": "not_defined",
+                    "type": "unknown",
+                    "image_quality": {
+                        "good": true,
+                        "frontal": true,
+                        "good_illumination": true
+                    },
+                    "cell": "RBC"
+                }
+            }
+        ],
+        "file_attributes": {
+            "caption": "",
+            "public_domain": "no",
+            "image_url": ""
+        }
+    }
+}
