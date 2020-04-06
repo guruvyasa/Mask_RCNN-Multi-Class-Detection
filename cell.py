@@ -78,7 +78,7 @@ class CellConfig(Config):
 ############################################################
 #  Dataset
 ############################################################
-mapper = {"EOSINOPHIL":1,"NEUROPHIL":2,"MONOCYTE":3,"LYMPHOCITE":4,"RBC":5}
+mapper = {"EOSINOPHIL":1,"NEUROPHIL":2,"MONOCYTE":3,"LYMPHOCYTE":4,"RBC":5}
 class CellDataset(utils.Dataset):
     
 
@@ -91,7 +91,7 @@ class CellDataset(utils.Dataset):
         self.add_class("cell", 1, "EOSINOPHIL")
         self.add_class("cell", 2, "NEUROPHIL")
         self.add_class("cell", 3, "MONOCYTE")
-        self.add_class("cell", 4, "LYMPHOCITE")
+        self.add_class("cell", 4, "LYMPHOCYTE")
         self.add_class("cell", 5, "RBC")
 
         # Train or validation dataset?
