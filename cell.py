@@ -78,8 +78,9 @@ class CellConfig(Config):
 ############################################################
 #  Dataset
 ############################################################
-
+mapper = {"EOSINOPHIL":1,"NEUROPHIL":2,"MONOCYTE":3,"LYMPHOCITE":4,"RBC":5}
 class CellDataset(utils.Dataset):
+    
 
     def load_cell(self, dataset_dir, subset):
         """Load a subset of the Balloon dataset.
@@ -128,14 +129,14 @@ class CellDataset(utils.Dataset):
             # The if condition is needed to support VIA versions 1.x and 2.x.
             polygons=[]
             objects=[]
-            for r in a['regions'].values():
+            for r in a['regions']:
                 polygons.append(r['shape_attributes'])
             # print("polygons=", polygons)
                 objects.append(r['region_attributes'])
             # print("multi_numbers=", multi_numbers)
             #polygons = [r['shape_attributes'] for r in a['regions'].values()]
             #objects = [s['region_attributes'] for s in a['regions'].values()]
-            class_ids = [int(n['cell']) for n in objects]
+            class_ids = [mapper[n['cell']] for n in objects]
 			# load_mask() needs the image size to convert polygons to masks.
             # Unfortunately, VIA doesn't include it in JSON, so we must read
             # the image. This is only managable since the dataset is tiny.
